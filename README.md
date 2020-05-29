@@ -14,5 +14,4 @@ Markdown editors like summernote exists and allow you to embed them in web apps.
 
 ### WTF-Form Validation
 
-https://stackoverflow.com/questions/10722968/flask-wtf-validate-on-submit-is-never-executed
-Useful for learning why forms aren't being validated in Flask-WTF forms.
+Useful for learning why forms aren't being validated in Flask-WTF forms. Link: https://stackoverflow.com/questions/10722968/flask-wtf-validate-on-submit-is-never-executed
