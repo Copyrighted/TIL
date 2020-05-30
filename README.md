@@ -15,3 +15,11 @@ Markdown editors like summernote exists and allow you to embed them in web apps.
 ### WTF-Form Validation
 
 Useful for learning why forms aren't being validated in Flask-WTF forms. Link: https://stackoverflow.com/questions/10722968/flask-wtf-validate-on-submit-is-never-executed
+
+### PyCharm has it's own console
+
+PyCharm has it's own console.  So if you're using functions like getpass() you probably wont be prompted for input in the console.
+To fix this, do the following: edit configurations->emulate terminal ouput in console
+
+
+
