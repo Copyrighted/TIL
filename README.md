@@ -11,10 +11,18 @@ If you need to generate random ID's for databases in python uuid.uuid4() is pret
 ### Markdown Editors
 
 Markdown editors like summernote exists and allow you to embed them in web apps. Link: https://summernote.org/getting-started/#compiled-css-js
+Just remember to set the name in your html to whatever name you have for posts or submissions in your form.
 
-### WTF-Form Validation
+In my forms.py
+post = TextAreaField(validators=[]DataRequired()])
 
-Useful for learning why forms aren't being validated in Flask-WTF forms. Link: https://stackoverflow.com/questions/10722968/flask-wtf-validate-on-submit-is-never-executed
+Now your textarea field should look like this
+
+    <form method="POST">
+        {{ form.hidden_tag() }}
+        <label for="summernote"></label><textarea id="summernote" name="post"></textarea>
+        <p>{{ form.submit() }}</p>
+    </form>
 
 ### PyCharm has it's own separate console
 
