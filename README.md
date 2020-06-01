@@ -20,7 +20,3 @@ Useful for learning why forms aren't being validated in Flask-WTF forms. Link: h
 
 PyCharm has it's own console.  So if you're using functions like getpass() you probably wont be prompted for input in the console.
 To fix this, do the following: edit configurations->emulate terminal ouput in console
-
-### Flask CSRF
-
-If you're using HTTP in a flask development environment, set SESSION_COOKIE_SECURE=False or else you'll get CSRF token missing.. a lot..
