@@ -6,7 +6,7 @@ I started this repo on 4/18/2020.
 
 ### UIDS
 
-If you need to generate random ID's for databases in python uuid.uuid4() is pretty useful.  Link: https://docs.python.org/3/library/uuid.html
+If you need to generate random ID's for databases in python uuid.uuid4().int is pretty useful.  Link: https://docs.python.org/3/library/uuid.html
 
 ### Markdown Editors
 
