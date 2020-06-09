@@ -37,5 +37,5 @@ PyCharm has it's own console.  So if you're using functions like getpass() you p
 To fix this, do the following: edit configurations->emulate terminal ouput in console
 
 ### Nice write-up about Flasks Application Factory and Application Context
-I this this was a nice write up about Flasks application factory and context.
+I thought this was a nice write up about Flasks application factory and context.
 https://hackersandslackers.com/flask-application-factory
