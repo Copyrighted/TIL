@@ -4,13 +4,12 @@ I was inspired by this hackernews thread https://bit.ly/2YaVdlh to write my own 
 I started this repo on 4/18/2020.  I want to clean it up to look like the original in the hackernews post.  Will do that in a bit.
 
 ### Use url_for to get folder path for static content in Flask
-This is a good stackoverflow post covering it.
-https://stackoverflow.com/questions/16351826/link-to-flask-static-files-with-url-for
+This is a good stackoverflow post covering it. [Link to SO](https://stackoverflow.com/questions/16351826/link-to-flask-static-files-with-url-for)
 
 
 ### Visual map of the Linux Kernel
 
-https://makelinux.github.io/kernel/map/
+[Visual Map of Kernel](https://makelinux.github.io/kernel/map/)
 
 ### A good resource for cool stuff you can do with pipes
 
@@ -18,11 +17,11 @@ https://prithu.xyz/posts/unix-pipeline/
 
 ### UIDS
 
-If you need to generate random ID's for databases in python uuid.uuid4().int is pretty useful.  Link: https://docs.python.org/3/library/uuid.html
+If you need to generate random ID's for databases in python uuid.uuid4().int is pretty useful.  [UUID Python Doc Link](https://docs.python.org/3/library/uuid.html)
 
 ### Markdown Editors
 
-Markdown editors like summernote exists and allow you to embed them in web apps. Link: https://summernote.org/getting-started/#compiled-css-js
+Markdown editors like [summernote](https://summernote.org/getting-started/#compiled-css-js) exists and allow you to embed them in web apps. 
 Just remember to set the name in your html to whatever name you have for posts or submissions in your form.
 
 In my forms.py
@@ -43,4 +42,4 @@ To fix this, do the following: edit configurations->emulate terminal ouput in co
 
 ### Nice write-up about Flasks Application Factory and Application Context
 I thought this was a nice write up about Flasks application factory and context.
-https://hackersandslackers.com/flask-application-factory
+[HackersAndSlackers Link](https://hackersandslackers.com/flask-application-factory)
