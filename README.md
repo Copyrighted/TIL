@@ -4,7 +4,7 @@ I was inspired by this hackernews thread https://bit.ly/2YaVdlh to write my own 
 I started this repo on 4/18/2020.  I want to clean it up to look like the original in the hackernews post.  Will do that in a bit.
 
 ### Awk in 20 minutes
-[Learn AWK in 20 minutes.  Good for log parsing on servers.](https://ferd.ca/awk-in-20-minutes.html)
+[Learn AWK in 20 minutes.](https://ferd.ca/awk-in-20-minutes.html)
 
 ### Use url_for to get folder path for static content in Flask
 This is a good stackoverflow post covering it. [Link to SO](https://stackoverflow.com/questions/16351826/link-to-flask-static-files-with-url-for)
