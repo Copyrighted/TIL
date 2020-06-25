@@ -51,4 +51,4 @@ AJAX is extremely useful because it allows you to update parts of your website u
 
 
 ### Django Requirements
-You should have a requirements.txt when using Django.  It makes it easier to deploy the application.
+You should have a requirements.txt when using Django.  It makes it easier to deploy the application by having a list of dependencies.
