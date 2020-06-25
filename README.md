@@ -47,4 +47,4 @@ I thought this was a nice write up about Flasks application factory and context.
 [HackersAndSlackers Link](https://hackersandslackers.com/flask-application-factory)
 
 ### AJAX
-AJAX is extremely useful because it allows you to update web applications 
+AJAX is extremely useful because it allows you to update parts of your website using Javascript without having to refresh the page.
