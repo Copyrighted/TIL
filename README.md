@@ -1,7 +1,7 @@
 # TIL
 
 I was inspired by this hackernews thread https://bit.ly/2YaVdlh to write my own TIL repo.  I think it's important to keep a journal of knowledge you have acquired and interesting things you have found.  You can't remember everything, right?
-I started this repo on 4/18/2020.  I want to clean it up to look like the original in the hackernews post.  Will do that in a bit.  Some of this information isn't stuff I learned the day of but I think it's good to write down to cement it.
+I started this repo on 4/18/2020.  I want to clean it up to look like the original in the hackernews post.  Will do that in a bit.  **Some of this information isn't stuff I learned the day of but I think it's good to write down to cement it.**
 
 ### Awk in 20 minutes
 [Learn AWK in 20 minutes.](https://ferd.ca/awk-in-20-minutes.html)
@@ -48,3 +48,7 @@ I thought this was a nice write up about Flasks application factory and context.
 
 ### AJAX
 AJAX is extremely useful because it allows you to update parts of your website using Javascript without having to refresh the page.
+
+
+### Django Requirements
+You should have a requirements.txt when using Django.  It makes it easier to deploy the application.
