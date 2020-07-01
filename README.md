@@ -3,8 +3,15 @@
 I was inspired by this hackernews thread https://bit.ly/2YaVdlh to write my own TIL repo.  I think it's important to keep a journal of knowledge you have acquired and interesting things you have found.  You can't remember everything, right?
 I started this repo on 4/18/2020.  I want to clean it up to look like the original in the hackernews post.  Will do that in a bit.  **Some of this information isn't stuff I learned the day of but I think it's good to write down to cement it.**
 
+### TIL Scoped Sessions in Flask
+If you're running into errors such as 
+"sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 139900647581440 and this is thread id 139900760037184."
+You can usually fix this by using scoped sessions in Flask.
+
+[Link to relevant doc page](https://docs.sqlalchemy.org/en/13/orm/session.html?highlight=scoped_session#unitofwork-contextual)
+
 ### Undoing Git Add through command line
-To undo git add use git reset.
+To undo git add through the command line use git reset.
 
 ### Awk in 20 minutes
 [Learn AWK in 20 minutes.](https://ferd.ca/awk-in-20-minutes.html)
