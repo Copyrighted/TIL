@@ -27,6 +27,9 @@ This is a good stackoverflow post covering it. [Link to SO](https://stackoverflo
 
 https://prithu.xyz/posts/unix-pipeline/
 
+### Travis CI/CD
+Easy way to have automatic testing when commiting to github repo [Travis CI](https://travis-ci.org/)
+
 ### UIDS
 
 If you need to generate random ID's for databases in python uuid.uuid4().int is pretty useful.  [UUID Python Doc Link](https://docs.python.org/3/library/uuid.html)
