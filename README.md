@@ -3,6 +3,10 @@
 I was inspired by this hackernews thread https://bit.ly/2YaVdlh to write my own TIL repo.  I think it's important to keep a journal of knowledge you have acquired and interesting things you have found.  You can't remember everything, right?
 I started this repo on 4/18/2020.  I want to clean it up to look like the original in the hackernews post.  Will do that in a bit.  
 
+
+### TIL Using pip3 and Travis CI
+If you want to use pip3 with Travis CI use the [Trusty](https://docs.travis-ci.com/user/reference/trusty/#what-this-guide-covers) infrastructure.
+
 ### TIL Scoped Sessions in Flask
 If you're running into errors such as 
 "sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 139900647581440 and this is thread id 139900760037184."
