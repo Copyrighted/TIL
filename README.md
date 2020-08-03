@@ -4,8 +4,12 @@ I was inspired by this hackernews [thread](https://news.ycombinator.com/item?id=
 I started this repo on 4/18/2020.  I want to clean it up to look like the original in the hackernews post.  Will do that in a bit.  
 
 
-### TIL Using pip3 and Travis CI
-If you want to use pip3 with Travis CI use the [Trusty](https://docs.travis-ci.com/user/reference/trusty/#what-this-guide-covers) infrastructure.
+### TIL Rust and Macros
+Using ! in Rust calls a macro, ex. 
+~~~
+println!("Hello, world!");
+~~~
+
 
 ### TIL Scoped Sessions in Flask
 If you're running into errors such as 
