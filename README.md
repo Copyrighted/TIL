@@ -3,6 +3,10 @@
 I was inspired by this hackernews [thread](https://news.ycombinator.com/item?id=22908044) to write my own TIL repo.  I think it's important to keep a journal of knowledge you have acquired and interesting things you have found.  You can't remember everything, right?
 I started this repo on 4/18/2020.  I want to clean it up to look like the original in the hackernews post.  Will do that in a bit.  
 
+### TIL Rust and Cargo
+Cargo is Rust's build system and package manager.
+
+Cargo.toml is the config file for Cargo.
 
 ### TIL Rust and Macros
 Using ! in Rust calls a macro, ex. 
