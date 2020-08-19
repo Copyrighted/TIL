@@ -3,6 +3,8 @@
 I was inspired by this hackernews [thread](https://news.ycombinator.com/item?id=22908044) to write my own TIL repo.  I think it's important to keep a journal of knowledge you have acquired and interesting things you have found.  You can't remember everything, right?
 I started this repo on 4/18/2020.  I want to clean it up to look like the original in the hackernews post.  Will do that in a bit.  
 
+
+
 ### TIL Rust and Cargo
 Cargo is Rust's build system and package manager.
 
@@ -14,6 +16,8 @@ Using ! in Rust calls a macro, ex.
 println!("Hello, world!");
 ~~~
 
+### Enums and Rust
+Enumerations are a type that have a fixed set of values, those values are are called the enum's variants.
 
 ### TIL Scoped Sessions in Flask
 If you're running into errors such as 
